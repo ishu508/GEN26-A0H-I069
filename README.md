@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I069
 ### Team Details
-#### **Team Name** ASGUARDIANS <br/>
+#### **Team Name - ** ASGUARDIANS <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |            🏢 Hostel Details          |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-------------------------------------:| 
